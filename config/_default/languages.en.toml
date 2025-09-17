@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Niranjan Liyanage"
 
 [params]
   displayName = "EN"
@@ -13,7 +13,22 @@ title = "Blowfish"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
-
+  
+  
+  [params.author]
+	name = "Niranjan Liyanage"
+	image = "img/niranjan-liyanage-avatar.jpg"
+	headline = "A generally awesome human"
+	bio = "Senior Technical Lead | Consultant | Research Assistant - HCI & AI"
+	links = [
+    { facebook = "https://facebook.com/nl" },
+	{ twitter = "https://twitter.com/Shanaka007" },
+    { instagram = "https://instagram.com/Shanaka007" },
+    { youtube = "https://www.youtube.com/@Shanaka007/" },
+    { github = "https://github.com/shanz007" },
+    { linkedin = "https://www.linkedin.com/in/niranjan-liyanage/" },
+    { email = "mailto:mail2nl@gmail.com" },
+  ]
 # [params.author]
 #   name = "Your name here"
 #   email = "youremail@example.com"
