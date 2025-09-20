@@ -30,12 +30,10 @@
   pageRef = "resume"
   weight = 40
 
-
 [[main]]
   name = "Blog"
-  pageRef = "blog"
-  weight = 20
-  
+  url = "/blog/"
+  weight = 50
 
 #[[main]]
 #  name = "Blog"
