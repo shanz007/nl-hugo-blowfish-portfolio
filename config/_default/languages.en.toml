@@ -21,13 +21,16 @@ title = "Niranjan Liyanage"
 	headline = "Senior Technical Lead | Consultant | Research Assistant - HCI & AI	"
 	bio = "Senior Technical Lead | Consultant | Research Assistant - HCI & AI"
 	links = [
-    { facebook = "https://facebook.com/nl" },
+    { email = "mailto:mail2shanaka@gmail.com" },
+#	 { facebook = "https://facebook.com/nl" },
 	{ twitter = "https://twitter.com/Shanaka007" },
-    { instagram = "https://instagram.com/Shanaka007" },
-    { youtube = "https://www.youtube.com/@Shanaka007/" },
+#    { #instagram = "https://instagram.com/Shanaka007" },
+#    { #youtube = "https://www.youtube.com/@Shanaka007/" },
     { github = "https://github.com/shanz007" },
     { linkedin = "https://www.linkedin.com/in/niranjan-liyanage/" },
-    { email = "mailto:mail2nl@gmail.com" },
+	{ orcid = "https://orcid.org/0009-0008-9110-6738" },
+	{ researchgate = "https://www.researchgate.net/profile/Niranjan-Liyanage" },
+    { discord = "https://discord.gg/invitecode" },
   ]
 # [params.author]
 #   name = "Your name here"
