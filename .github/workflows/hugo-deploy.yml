@@ -1,0 +1,52 @@
+name: Deploy Hugo Site to Main Port
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push to main branch
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-24.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4  # Use latest version
+        with:
+          submodules: true  # Required for Blowfish theme
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+        # Build Jekyll Blog
+      - name: Build Jekyll Blog
+        run: |
+          git clone https://github.com/shanz007/nl-chripy-blog nl-chripy-blog
+          cd nl-chripy-blog
+          bundle install
+          bundle exec jekyll build -d ../static/blog
+          
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.141.0"
+          extended: true  # REQUIRED for Blowfish theme (Sass/SCSS support)
+
+      - name: Build
+        run: hugo --minify  # Build with minification
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # USE PAT INSTEAD OF GITHUB_TOKEN
+          personal_token: ${{ secrets.PAT_TOKEN }}
+          # TARGET THE EXTERNAL REPOSITORY
+          external_repository: shanz007/shanz007.github.io
+          publish_branch: main
+          publish_dir: ./public
+          force_orphan: true
