@@ -28,8 +28,10 @@ title = "Niranjan Liyanage"
 #    { #youtube = "https://www.youtube.com/@Shanaka007/" },
     { github = "https://github.com/shanz007" },
     { linkedin = "https://www.linkedin.com/in/niranjan-liyanage/" },
+    { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 	{ orcid = "https://orcid.org/0009-0008-9110-6738" },
 	{ researchgate = "https://www.researchgate.net/profile/Niranjan-Liyanage" },
+    { medium = "https://medium.com/@NiranjanLiyanage" },
     { discord = "https://discord.gg/invitecode" },
   ]
 # [params.author]
