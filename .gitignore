@@ -38,4 +38,6 @@ yarn-error.log*
 *.tmp
 *.temp
 *~
-*.Zone.Identifier
+*:[Zz]one.Identifier
+*.DS_Store
+Thumbs.db
