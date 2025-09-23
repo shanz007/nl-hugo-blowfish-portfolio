@@ -29,7 +29,7 @@ Hi there! 👋 I’m a **Senior Developer / Technical Lead** with over 14 years 
 ---
 
 ## 🎓 Current Focus  
-I recently worked as a **Research Assistant at the University of Oulu (Finland)**, where I explored how **AI and Large Language Models (LLMs)** can improve **Human-Computer Interaction (HCI)**. My projects aimed at enhancing **digital well-being, user trust, and practical usability**, bridging the gap between cutting-edge research and real-world applications.  
+I recently worked as a  [**Research Assistant at the University of Oulu (Finland)**](https://ubicomp.oulu.fi/staff-members/shanaka-niranjan),  where I explored how **AI and Large Language Models (LLMs)** can improve **Human-Computer Interaction (HCI)**. My projects aimed at enhancing **digital well-being, user trust, and practical usability**, bridging the gap between cutting-edge research and real-world applications.  
 
 ---
 
