@@ -1,15 +1,30 @@
 ---
-title: "TrustifyAI – Twitter Profile Credibility"
-date: 2024-10-30
-tags: ["AI", "LLM", "HCI"]
-categories: ["Research"]
+title: "Projects: Academic Research / Industrial / Personal"
+date: 2025-09-26
+type: page
 draft: false
-summary: "An AI-powered proof-of-concept tool that helps users evaluate and enhance the credibility of their Twitter profiles. Developed as part of HCI research at the University of Oulu, it combines LLM-based recommendations with user studies to explore trust, usability, and adoption."
+summary: "A collection of my projects and research work across industry, academia, and personal endeavors."
 showHero: true
 ---
 
-**TrustifyAI** is a research-driven prototype that leverages **AI and LLMs** to provide actionable recommendations for improving Twitter profiles.  
+Throughout my career, I have engaged in a diverse range of projects spanning industrial applications, academic research, and personal initiatives. This project portfolio is a curated collection of that work, each project representing a unique challenge and a significant learning opportunity.
 
-The project explored how users **perceive trust, ease of use, and usefulness** in AI-driven tools through a **mixed-methods study** with 16 participants. Findings highlight that AI can support **digital identity management**, foster **self-reflection**, and build awareness of credibility cues online.  
+As listed below, you can explore my contributions in each domain.
 
-👉 [Read More](/projects/trustifyai/)
+---
+
+### [🔬 Academic Research Projects](/projects/academic/)
+A collection of my formal research work in AI, HCI, and software development, well-supported by user studies and prototype development at [UBICOMP Oulu (Center for Ubiquitous Computing)](https://ubicomp.oulu.fi/), unveristy of Oulu.
+
+• [**Research Papers**](/categories/research-papers/) • [**Research Conferences**](/tags/research-conf/)
+
+### [🏭 Industrial Projects](/projects/industrial/)
+A showcase of professional software engineering projects that I have woked on in the industry, focusing on scalable solutions, system re-engineering, and delivering business value to the stakeholders.
+
+### [💻 Personal Projects](/projects/personal/)
+A selection of self-driven projects and functional prototypes built to explore new technologies and solve practical problems.
+
+
+{{< alert icon=circle-info >}}
+*Interested in collaboration or learning more about a specific project? Feel free to [reach out](/contact/)!*
+{{< /alert >}}
