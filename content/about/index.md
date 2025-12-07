@@ -34,18 +34,18 @@ I recently worked as a  [**Research Assistant at the University of Oulu (Finland
 ---
 
 ## 🏛️ Career Highlights  
-- **ICTA Sri Lanka** → Led national-scale digital initiatives as a **Technical Lead**.  
-  - Designed and reviewed solution/deployment architectures  
-  - Directed engineering teams, mentoring, and training  
+- **ICTA Sri Lanka** → Led and delivered national-scale digital initiatives pilot PoCs for SLUDI (Sri Lanka Unique Digital Identity Framework), paving the way for a nationwide biometric-based digital identity system as a **Technical Lead**. (2 Yrs) 
+  - Designed, developed and reviewed solution/deployment architectures  
+  - Led engineering teams, mentoring, and training  
   - Provided technical consultancy for **RFPs, bid evaluations, and IT procurements**  
 
-- **Kaleris (formerly ShipXpress, a Wabtec company)** → 6+ years in the **rail industry**, taking on roles like **Tech Lead, Senior Engineer, Product Lead, and Scrum Master**, mainly in **Java + Angular** ecosystems.  
+- **Kaleris (formerly ShipXpress, a Wabtec company)** → 6 years in the **rail industry**, taking on roles like **Tech Lead, Senior Engineer, Product Lead, and Scrum Master**, mainly in **Java + Angular** ecosystems.  
 
-- **Other Roles** → Senior engineering and leadership positions at:  
-  - **OX Consultancy Pvt Ltd**  
-  - **EVES Information Technology AG**  
-  - **Interblocks Pvt Ltd**  
-  - **Wavenet International**  
+- **OX Consultancy Pvt Ltd**   as **Senior Technical Lead**.  
+  - Designed, developed and reviewed solution/deployment architectures  
+- **EVES Information Technology AG**  → Senior Software engineer (1 Yrs)
+- **Interblocks Pvt Ltd**   →  Software engineer (5 Yrs)
+- **Wavenet International** → Associate Software engineer (1 Yrs)  
 
 Delivered impactful solutions across **logistics, fintech, telecom**, and **transportation** industries.  
 
