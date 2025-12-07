@@ -1,7 +1,7 @@
 ---
 title: "TrustifyAI – Twitter Profile Credibility"
 date: 2024-10-30
-tags: ["AI", "LLM", "HCI"]
+tags: ["AI", "LLM", "Vye.js", "Node.js", "HCI", "Digital Identity", "Misinformation"]
 categories: ["Research"]
 draft: false
 summary: "An AI-powered proof-of-concept tool that helps users evaluate and enhance the credibility of their Twitter profiles. Developed as part of HCI research at the University of Oulu, it combines LLM-based recommendations with user studies to explore trust, usability, and adoption."
