@@ -34,7 +34,7 @@ showRelatedContent: false
 
 The project addresses the overuse of digital technologies by implementing three adaptive interaction modes that allow users to **suppress, obscure, or highlight** web elements based on AI-identified distractions and dark patterns. Our mixed-methods study with 18 participants demonstrated that users preferred the **suppress mode** and valued the ability to toggle between modes, enhancing their sense of control over digital distractions.
 
-This project began as a developing a prototype to explore how **AI can improve users' digital lives** by creating a functional system evaluated through a user study. The project was selected at **Academic MindTrek 2025** in Tampere, Finland, recognizing its contribution to intelligent, adaptive Digital Self-Control Tools (DSCTs).
+This project began as a developing a prototype to explore how **AI can improve users' digital lives** by creating a functional system evaluated through a user study. The project was selected at  [**Academic MindTrek 2025**](https://www.mindtrek.org/academic-mindtrek-2025/) in Tampere, Finland, recognizing its contribution to intelligent, adaptive Digital Self-Control Tools (DSCTs).
 ![image](smart-adaptive-ui-v.1.1.0.png)
 
 ---

@@ -7,19 +7,22 @@ summary: "A collection of my recent research work in AI, HCI, and Software Devel
 showHero: false
 ---
 
-**Smart Adaptive Interfaces – AI-Powered Digital Wellbeing**  
+**Smart Adaptive Interfaces – AI-Powered Digital Wellbeing**
+*Applied Computing Research Project, University of Oulu*  
 {{< alert icon=circle-info >}}
 *Selected for Academic MindTrek 2025 Conference, Tampere, Finland.* 
-[MindTrek 2025 Conference](https://www.mindtrek.org/mindtrek-conference-2025/)
+[MindTrek 2025 Conference](https://www.mindtrek.org/mindtrek-conference-2025/), and published on
+[ACM](https://dl.acm.org/doi/10.1145/3757980.3762111/)
+
 {{< /alert >}}
 
 - Designed and Developed a browser-based tool leveraging Large Language Models (LLMs) to combat digital distractions through real-time web content modification.
 - Conducted a mixed-methods study with 18 participants to evaluate the system's effectiveness and user experience.
-- **Technologies:** · `JavaScript`· `Chrome Browser Extensions API`·`OpenAI` 
+- **Technologies:** · `React`· `Chrome Browser Extensions API`·`OpenAI` 
 ---
 
 **TrustifyAI – Twitter Profile Credibility Analyzer**  
-*HCI Research Project, University of Oulu*  
+*Thesis Research Project, University of Oulu*  
 - Designed and developed an AI-powered PWP to evaluate and enhance Twitter profile credibility using LLM-based recommendations.
 - Evalauted in a user study to investigate factors influencing trust perception and overall usability of the tool.
 - **Technologies:**  `Vue.js` · `Node.js` · `SQLite`  · `MongoDB`  · `Nginx` · `OpenAI`
