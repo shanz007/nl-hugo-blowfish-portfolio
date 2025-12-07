@@ -1,7 +1,7 @@
 ---
 title: "Smart Adaptive Interfaces – AI-Powered Digital Wellbeing"
 date: 2025-09-15
-tags: ["AI", "LLM", "HCI", "Digital Wellbeing", "Browser Extension"]
+tags: ["AI", "LLM", "React", "HCI", "Digital Wellbeing", "Browser Extension"]
 categories: ["Research", "Projects"]
 draft: false
 summary: "A browser-based tool that uses Large Language Models to modify web content in real-time, helping users combat digital distractions and dark patterns through adaptive interfaces. Nominated for demonstration at Academic MindTrek 2025 in Tampere, Finland."
