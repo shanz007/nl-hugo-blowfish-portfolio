@@ -9,10 +9,12 @@ showHero: false
 
 
 
-**New Trax System: Full-Stack Re-engineering**  
+**ShipX Trax: Full-Stack Re-engineered product**,  
+[Kaleris (formerly ShipXpress, a Wabtec/GE Transportation subsidary)](https://kaleris.com/)
+
 {{< alert icon=circle-info >}}
-[ShipX TRAX](https://pcm.railconnect.com/solutionShippers.html)
-    *For gaining real-time visibility of rail shipments at all points in the supply chain. This critical proudct is a part of ShipX™ suites a web-based suite of collaborative logistics solutions.* 
+[ShipX TRAX](https://pcm.railconnect.com/solutionShippers.html):
+    *for gaining real-time visibility of rail shipments at all points in the supply chain. This critical proudct is a part of ShipX™ suites a web-based suite of collaborative logistics solutions.* 
 
 {{< /alert >}}
 
@@ -31,7 +33,8 @@ showHero: false
 
 
 **Yard Management System (Yard)**  
-*ShipXpress Ltd*  
+[Kaleris (formerly ShipXpress, a Wabtec/GE Transportation subsidary)](https://kaleris.com/)
+
 - Developed and maintained a 100% web-based, SaaS Yard Management System using Java and the SmartGWT framework for responsive outputs.
 
     - Architected and deployed a cloud-native solution, eliminating the need for client-side server installation or software, reducing IT overhead and simplifying customer onboarding.
@@ -47,11 +50,12 @@ showHero: false
 - **Technologies:**  `Java` · `SmartGWT` · `Oracle`  · `SaaS`· `API Integration `· 
 ---
 
-**Ace International Xpress Information System ( AIXIS )**  
+**Ace International Xpress Information System ( AIXIS )**, 
+[Eves Information Technology (Pvt.) Ltd (a EVES Information Technology AG subsidary))](https://eves.de/)
+
 {{< alert icon=circle-info >}}
 *Ace International Express (PVT) LTD. (AIX) is the local representative of TNT Express, a global delivery company with a presence of over 3000 offices in 220 countries..* 
-*EVES Information Technology AG*
-[AIXIS](https://www.mindtrek.org/mindtrek-conference-2025/)
+ `AIXIS ` is the flagship product developed for this local representative company.
 {{< /alert >}}
 
 - Designed and developed a comprehensive, web and mobile-enabled logistics management platform to streamline end-to-end operations for Ace International Express (TNT Sri Lanka).
@@ -67,21 +71,9 @@ showHero: false
 - **Technologies:**  `Java` · `JBoss` · `Oracle` · `JavaScript` ·`Apache Server`
 ---
 
-**DiaMail Project (E-mail to SMS) - Dmail**  
-{{< alert icon=circle-info >}}
-*My first open source project commisioned to a leading Tecommunication Provider of Sri Lnaka- Dialog Axiata.* 
-[Dmail-Email to SMS](https://www.mindtrek.org/mindtrek-conference-2025/)
-{{< /alert >}}
-
-- Spearheaded the research, development, testing, and deployment of an innovative Email-to-SMS parser with routing capabilities as a Value-Added  Service (VAS).
-- Engineered the backend module using Perl, leveraging open-source libraries including QPSMTPD for mail processing and the Perl DBI for database  connectivity.
-- Designed and managed the data layer using MySQL to handle email parsing logic, user routing rules, and SMS message queues.
-- Utilized OpenShell Scripting for server administration, automation, and deployment tasks.
-- **Technologies:**  `Perl` · `MySQL` · `OpenShell Scripting` · `QPSMTPD`
----
-
 **iPay Internet credit/debit acquiring Solution (iPay®)**  
-*Interblocks Ltd*  
+[Interblocks Ltd (a Hitachi-Omron Terminal Solutions subsidary)](https://hitachi-dps.com/)
+
 - Contributed to the development of a robust, real-time internet payment gateway for acquiring banks and their merchants.
 - The solution enabled secure processing of online credit and debit card transactions, facilitating electronic commerce.
 - Implemented core application features using Java and the Hibernate ORM framework for data persistence.
@@ -92,8 +84,23 @@ showHero: false
 
 
 **MyCa -American Express® Cardmember Online Services**  
-*Interblocks Ltd*  
+[Interblocks Ltd (a Hitachi-Omron Terminal Solutions subsidary)](https://hitachi-dps.com/):
+
 - An Online "Credit Cards" solution for American Express ( Amex) ,MasterCard Card holders to facilitate a host of card related operations ranging from card creation to billing information that are acquired through Restfull CTL Web Services
 
 - **Technologies:**  `Java` · `jsp`· `Oracle` · `Hibernate`  · `WebSphere`  · `Ant`
+---
+
+**DiaMail Project (E-mail to SMS) - Dmail**,  
+[WaveNET international (pvt) ltd](https://www.globalwavenet.com/)
+{{< alert icon=circle-info >}}
+*My first open source project commisioned to a leading Tecommunication Provider of Sri Lnaka- Dialog Axiata.* 
+[Dmail-Email to SMS](https://www.mindtrek.org/mindtrek-conference-2025/)
+{{< /alert >}}
+
+- Spearheaded the research, development, testing, and deployment of an innovative Email-to-SMS parser with routing capabilities as a Value-Added  Service (VAS).
+- Engineered the backend module using Perl, leveraging open-source libraries including QPSMTPD for mail processing and the Perl DBI for database  connectivity.
+- Designed and managed the data layer using MySQL to handle email parsing logic, user routing rules, and SMS message queues.
+- Utilized OpenShell Scripting for server administration, automation, and deployment tasks.
+- **Technologies:**  `Perl` · `MySQL` · `OpenShell Scripting` · `QPSMTPD`
 ---
