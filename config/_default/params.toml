@@ -26,7 +26,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 
-defaultFeaturedImage = "/img/background.jpg"
+#defaultFeaturedImage = "/img/background.jpg"
 defaultBackgroundImage = "/img/background.jpg"
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 

@@ -10,7 +10,7 @@ showHero: false
 ---
 
 **WorkspaceLens – Outdoor Knowledge Work Photo Collection & Analysis**  
-*Research Internship Project, CrowdComputing Research Group, University of Oulu*  
+*Research Project, CrowdComputing Research Group, University of Oulu*  
 
 - Designed and developed a mobile-first Progressive Web Application (PWA) implementing the **pOKW2 photo analysis model** for collecting self-reported gaze-direction photographs from outdoor and semi-outdoor knowledge work environments.
 - Built an end-to-end data collection pipeline: in-browser privacy editor (black box + blur censoring), 8-question pOKW2-aligned ESM questionnaire, GPS capture, and direct upload to cloud storage — all working offline with automatic retry on reconnect.
