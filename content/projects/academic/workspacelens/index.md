@@ -28,17 +28,21 @@ showRelatedContent: false
 **Research Unit:** CrowdComputing Research Group, University of Oulu  
 **Timeline:** May 2026 – Ongoing  
 **Type:** Research Project / Progressive Web App  
-**Status:** Pilot study / data collection in progress
-**Main App:** [WorkSpaceLens](https://tinyurl.com/y89w8637)
-**Admin Portal:** [WorkSpaceLens](https://tinyurl.com/mumu3ey2)
+**Status:** Pilot study / data collection in progress  
+**Main App:** [WorkSpaceLens](https://tinyurl.com/y89w8637)  
+**Admin Portal:** [WorkSpaceLens-Admin](https://tinyurl.com/mumu3ey2)
 
 {{< /alert >}}
 
 **WorkspaceLens** is a mobile-first Progressive Web Application (PWA) that implements the **pOKW2 photo analysis model** (Herneoja et al., 2023) for collecting and analysing self-reported photographs from outdoor and semi-outdoor knowledge work environments.
 
+<img src="workspacelens-1.png" alt="WorkspaceLens-main" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
+
 Working outdoors is an emerging and sparsely studied phenomenon. Hybrid and remote work have transformed where knowledge workers choose to work be it parks, terraces, courtyards, café patios etc. yet the physical characteristics of these spaces and their effect on productivity remain largely unquantified. WorkspaceLens addresses this gap by providing a structured, privacy-aware, mobile data collection tool aligned to the pOKW2 research methodology.
+<img src="workspacelens-2.png" alt="WorkspaceLens-2" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
 The application collects gaze-direction photographs (what the participant sees, not their desk), paired with an 8-question Experience Sampling Method (ESM) questionnaire, GPS coordinates, and automated computer vision analysis — all linked by participant ID and timestamp for cross-dataset joining.
+<img src="workspacelens-3.png" alt="WorkspaceLens-3" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
 ---
 
@@ -70,6 +74,9 @@ WorkspaceLens implements Columns A and B in full, with Column C reserved for res
 
 - **Privacy editor** – In-browser Canvas tool with black box and pixelation blur to mask sensitive content. with enforced upload gates: minimum file size, optional GPS, and an explicit review checkbox.
 
+<img src="workspacelens-4.png" alt="WorkspaceLens-editor" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
+
+
 - **pOKW2 ESM questionnaire** – 8 mandatory questions: location type, thermal comfort, surroundings (multi-select), natural light, noise level, activity, shelter/wind exposure, and the pOKW2 Additional Question (AQ) affordance rating.
 
 - **GPS capture** – Optional browser Geolocation API, runs in parallel with photo upload. Enables cross-referencing with weather datasets.
@@ -83,6 +90,8 @@ WorkspaceLens implements Columns A and B in full, with Column C reserved for res
 - **Automated vision analysis** –  Integrates with OpenRouter supported vision models (Gemini, GPT-4o, Llama fallback).
 
 - **Research admin dashboard** – Password-protected `/admin` route. Server-side JWT authentication. Paginated gallery, ESM response viewer, vision score progress bars, detected label tags, and CSV export.
+
+<img src="workspacelens-6.png" alt="WorkspaceLens-admin" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
 ---
 
@@ -113,6 +122,8 @@ The 8-question survey is delivered on device immediately after photo capture:
 | 7 | Are you sheltered from wind/rain? | Semi-outdoor classification |
 | 8 | Does this environment support your work? (1–5) | **pOKW2 AQ — core analytical output** |
 
+<img src="workspacelens-5.png" alt="WorkspaceLens-survey" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
+
 ---
 
 ## Vision Analysis Pipeline
@@ -131,6 +142,7 @@ Each submitted photo is automatically analysed by an OpenRouter vision model and
 | Greenness index | Vegetation pixel ratio (0–1) |
 
 Results are stored in PostgreSQL and displayed in the researcher admin dashboard alongside ESM responses.
+<img src="workspacelens-admin-1.png" alt="WorkspaceLens-analysis" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
 ---
 
