@@ -12,6 +12,37 @@ summary: "My professional background in data engineering and HCI research"
 
 {{< timeline >}}
 
+{{< timelineItem  header="University Of Oulu, Finland" badge="May 2026 - Ongoing" subheader="Research Worker">}}
+<ul>
+  <li>At the <a href="https://crowdcomputing.net/" target="_blank">CrowdComputing Research Group</a>
+, designing, developing, and deploying <a href="/projects/academic/workspacelens/" target="_blank">WorkSpaceLens</a>
+  , a mobile-first Progressive Web App implementing the pOKW2 photo analysis model (Herneoja et al., 2023) for collecting and analysing self-reported photographs from outdoor and semi-outdoor knowledge work environments.
+ <br>
+  </li>
+  <li>Built a secure researcher admin dashboard for reviewing, filtering, and analysing submitted field data.</li>
+  <li>Implemented GPS capture, an offline submission queue, and a canvas-based privacy editor for safe handling of user-submitted photographs.
+  </li>
+  <li>Developed an automated vision analysis pipeline using Supabase Edge Functions integrated with OpenRouter for AI-assisted image classification.</li>
+  <li>Currently leading data collection through an active pilot study, coordinating with supervisors on study design and evaluation criteria.</li>
+</ul>
+
+{{< /timelineItem >}}
+{{< timelineItem
+    footer="University Of Oulu, Finland"
+    badge=""
+    subheader=""
+>}}
+
+<div class="tech-stack">
+<strong>🛠️ Technology Stack:</strong><br>
+<strong>Frontend:</strong> React 19, TypeScript, Vite<br>
+<strong>Backend:</strong> Supabase (Edge Functions, Postgres, Auth)<br>
+<strong>APIs & Libraries:</strong> OpenRouter (LLM vision pipeline), RESTful APIs<br>
+<strong>DevOps & Infrastructure:</strong> Netlify, GitHub Actions<br>
+</div>
+
+{{< /timelineItem >}}
+
 {{< timelineItem  header="University Of Oulu, Finland" badge="Nov. 2024 - May 2025" subheader="Master's Thesis Worker">}}
 <ul>
   <li>At  <a href="https://ubicomp.oulu.fi/staff-members/shanaka-niranjan" target="_blank">UBCOMP</a> 
