@@ -25,11 +25,13 @@ layoutBackgroundHeaderSpace: false
 # About Me
 
 Hi there! 👋 I’m a **Senior Developer / Technical Lead** with over 14 years of global experience building scalable, reliable, and user-focused applications. My journey has taken me across diverse tech stacks, industries, and continents shaping me into someone who thrives at the intersection of **technology, research, and real-world impact**.  
+👉 See my updated [Resume](https://effulgent-khapse-0bd839.netlify.app)
 
 ---
 
 ## 🎓 Current Focus  
 I recently worked as a  [**Research Assistant at the University of Oulu (Finland)**](https://ubicomp.oulu.fi/staff-members/shanaka-niranjan),  where I explored how **AI and Large Language Models (LLMs)** can improve **Human-Computer Interaction (HCI)**. My projects aimed at enhancing **digital well-being, user trust, and practical usability**, bridging the gap between cutting-edge research and real-world applications.  
+*👉 See [Project](/projects/) page for all the projects, publications, and ongoing studies in detail.*
 
 ---
 

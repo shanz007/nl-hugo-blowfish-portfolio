@@ -16,7 +16,11 @@ As listed below, you can explore my contributions in each domain.
 ### [🔬 Academic Research Projects](/projects/academic/)
 A collection of my formal research work in AI, HCI, and software development, well-supported by user studies and prototype development at [UBICOMP Oulu (Center for Ubiquitous Computing)](https://ubicomp.oulu.fi/), unveristy of Oulu.
 
-• [**Research Papers**](https://www.researchgate.net/profile/Niranjan-Liyanage) • [**Research Conferences**](https://dl.acm.org/doi/10.1145/3757980.3762111)
+{{< alert icon=circle-info >}}
+**Research Papers :**  [**ACM**](https://dl.acm.org/doi/10.1145/3757980.3762111)  
+**Research Profiles :** • [**ResearchGate**](https://www.researchgate.net/profile/Niranjan-Liyanage) • [**Google Scholar**](https://scholar.google.com/citations?user=k3FTL4MAAAAJ&hl=en) • [ **ORCID**](https://orcid.org/0009-0008-9110-6738)
+{{< /alert >}}
+
 
 ### [🏭 Industrial Projects](/projects/industrial/)
 A showcase of professional software engineering projects that I have woked on in the industry, focusing on scalable solutions, system re-engineering, and delivering business value to the stakeholders.

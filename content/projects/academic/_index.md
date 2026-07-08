@@ -10,7 +10,9 @@ showHero: false
 ---
 
 **WorkspaceLens – Outdoor Knowledge Work Photo Collection & Analysis**  
+{{< alert icon=circle-info >}}
 *Research Project, CrowdComputing Research Group, University of Oulu*  
+{{< /alert >}}
 
 - Designed and developed a mobile-first Progressive Web Application (PWA) implementing the **pOKW2 photo analysis model** for collecting self-reported gaze-direction photographs from outdoor and semi-outdoor knowledge work environments.
 - Built an end-to-end data collection pipeline: in-browser privacy editor (black box + blur censoring), 8-question pOKW2-aligned ESM questionnaire, GPS capture, and direct upload to cloud storage — all working offline with automatic retry on reconnect.
@@ -26,7 +28,7 @@ showHero: false
 {{< alert icon=circle-info >}}
 *Selected for Academic MindTrek 2025 Conference, Tampere, Finland.* 
 [MindTrek 2025 Conference](https://www.mindtrek.org/mindtrek-conference-2025/), and published on
-[ACM](https://dl.acm.org/doi/10.1145/3757980.3762111/)
+[ACM](https://dl.acm.org/doi/10.1145/3757980.3762111)
 
 {{< /alert >}}
 
@@ -37,7 +39,10 @@ showHero: false
 ---
 
 **TrustifyAI – Twitter Profile Credibility Analyzer**  
+{{< alert icon=circle-info >}}
 *Thesis Research Project, University of Oulu*  
+{{< /alert >}}
+
 - Designed and developed an AI-powered PWP to evaluate and enhance Twitter profile credibility using LLM-based recommendations.
 - Evalauted in a user study to investigate factors influencing trust perception and overall usability of the tool.
 - **Technologies:**  `Vue.js` · `Node.js` · `SQLite`  · `MongoDB`  · `Nginx` · `OpenAI`
