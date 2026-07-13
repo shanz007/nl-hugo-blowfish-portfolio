@@ -25,7 +25,7 @@ A collection of my formal research work in AI, HCI, and software development, we
 ### [🏭 Industrial Projects](/projects/industrial/)
 A showcase of professional software engineering projects that I have woked on in the industry, focusing on scalable solutions, system re-engineering, and delivering business value to the stakeholders.
 
-### [💻 Personal Projects](/projects/personal/)
+### [💻 Personal Projects](https://github.com/shanz007)
 A selection of self-driven projects and functional prototypes built to explore new technologies and solve practical problems.
 
 
