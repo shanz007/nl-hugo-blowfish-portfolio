@@ -25,7 +25,6 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-
 #defaultFeaturedImage = "/img/background.jpg"
 defaultBackgroundImage = "/img/background.jpg"
 
