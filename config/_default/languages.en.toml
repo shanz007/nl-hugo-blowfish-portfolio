@@ -18,8 +18,9 @@ title = "Niranjan Liyanage"
   [params.author]
 	name = "Niranjan Liyanage"
 	image = "img/niranjan-liyanage-avatar.jpg"
-	headline = "Senior Technical Lead & Solution Architect | Researcher - AI/LLM · HCI · Digital Wellbeing, with 14+ years of experience building scalable, user-focused applications across diverse tech stacks and industries."
-	bio = "Senior Technical Lead & Solution Architect | Researcher- AI/LLM · HCI · Digital Wellbeing "
+	headline = "  Senior Technical Lead & Consultant | AI/LLM Researcher · HCI · SE · Digital Wellbeing with 14+ years of experience building scalable, user-focused applications across diverse tech stacks and industries."
+	bio = "  Senior Technical Lead & Consultant | AI/LLM Researcher · HCI · SE · Digital Wellbeing "
+
 	links = [
     { email = "mailto:mail2shanaka@gmail.com" },
 #	 { facebook = "https://facebook.com/nl" },

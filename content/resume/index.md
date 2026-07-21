@@ -6,9 +6,13 @@ draft: false
 summary: "My professional background in data engineering and HCI research"
 ---
 
-## 💼 Work Experience
+<div class="text-left" style="text-align: justify;">
+{{< alert icon="circle-info" >}}
+[View Full CV →](https://effulgent-khapse-0bd839.netlify.app/)
+{{< /alert >}} 
+</div>
 
-
+  ## 💼 Work Experience
 
 {{< timeline >}}
 
@@ -460,9 +464,6 @@ Thesis: IMPACT OF ENTERPRISE SOCIAL NETWORKING ADOPTION PRACTICES ON EMPLOYEE PE
 - JS/TS : Vue, React, Angular, jQuery
 - Building/Integrating CI/CD pipelines
 - R & D activities towards MVP, MMP, etc.
-
-
-[Download Resume →](/uploads/resume.pdf)
 
 
 
