@@ -31,8 +31,6 @@ Hi there! 👋 I'm **Shanaka Niranjan** - a Senior Developer / Technical Lead wi
 
 ## 🎓 Current Focus
 
-<div class="text-left" style="text-align: justify;">
-
 I am currently a **Research Worker at the CrowdComputing Research Group, University of Oulu**, under Professor Simo Hosio, conducting an active pilot study for [WorkSpaceLens](/projects/academic/workspacelens/) — a mobile-first PWA for collecting and analysing self-reported photographs from outdoor and semi-outdoor knowledge work environments.
 
 Previously, as a **Research Assistant at UBICOMP, University of Oulu**, I explored how AI and Large Language Models (LLMs) can improve Human-Computer Interaction (HCI) and support Empirical Software Engineering research. My work focused on designing, building, and empirically evaluating AI-powered applications - bridging the gap between cutting-edge research and real-world software engineering practice.
@@ -45,30 +43,28 @@ Key outputs:
 </ul>
 
 👉 See the [Projects](/projects/) page for full details, publications, and ongoing studies.
-</div>
 
 ---
 
 ## 🏛️ Career Highlights
 
-<div class="text-left" style="text-align: justify;">
 <ul class="not-prose list-none pl-0 space-y-2 text-left">
   <li class="border-l-2 border-primary-500 pl-4">
     <strong>🔹Technical Lead @ ICTA Sri Lanka (2021–2023)</strong><br>
     Led national-scale digital identity initiative — SLUDI (Sri Lanka Unique Digital Identity Framework). Responsibilities spanned solution and deployment architecture, engineering team management, training, mentoring, and technical consultancy (RFPs, bid evaluations, procurements).
-  </li>
+  </li><br>
   <li class="border-l-2 border-primary-500 pl-4">
     <strong>🔹Senior Developer / Product Lead / Scrum Master @ Kaleris/ShipXpress, Wabtec (2014–2021)</strong><br>
     6 years delivering railroad software platforms for major US operators - Trax and Yard systems. Roles included Technical Lead, Senior Software Engineer, Product Lead, and Scrum Master, primarily in Java and Angular ecosystems.
-  </li>
+  </li><br>
   <li class="border-l-2 border-primary-500 pl-4">
     <strong>🔹Senior Software Engineer @ EVES Information Technology AG (2012–2013)</strong><br>
     Enterprise software development in logistics and fintech domains — Java ecosystems, European clients.
-  </li>
+  </li><br>
   <li class="border-l-2 border-primary-500 pl-4">
     <strong>🔹Software Engineer @ Interblocks Pvt Ltd (2007–2012)</strong><br>
     Full-stack software development across fintech and telecom solutions.
-  </li>
+  </li><br>
   <li class="border-l-2 border-primary-500 pl-4">
     <strong>🔹Associate Software Engineer @ Wavenet International (2006–2007)</strong><br>
     Early career software engineering in telecommunications domain.
@@ -76,7 +72,6 @@ Key outputs:
 </ul>
 
 Delivered solutions across **digital identity, transportation, logistics, fintech, and telecommunications** — with clients across North America, Europe, South Asia, and Southeast Asia.
-</div>
 
 ---
 
