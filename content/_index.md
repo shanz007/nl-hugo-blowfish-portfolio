@@ -24,7 +24,7 @@ layoutBackgroundHeaderSpace: true
 
 ## 🎯 What I Do
 
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 
 I bridge the gap between **cutting-edge technology** and **real-world impact** — from leading national-scale digital identity initiatives to researching AI-driven systems at the intersection of Human-Computer Interaction and Empirical Software Engineering at the University of Oulu.<br><br>
 
@@ -42,14 +42,14 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 
 ## 🚀 Recent Work
 
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 {{< alert icon="circle-info" >}}
 **Currently:** Research Worker at [University of Oulu](https://ubicomp.oulu.fi/staff-members/shanaka-niranjan) — Building [WorkSpaceLens](https://shanz007.github.io/projects/academic/workspacelens/), a mobile-first PWA for analysing outdoor knowledge work environments. Also developing applied AI systems leveraging *LLM integration*, *RAG pipelines*, *Agentic AI*, and *Azure data engineering*.
 {{< /alert >}} 
 </div>
 
 ## 🗂️ Featured Projects
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 
 <ol style="list-style:none; padding-left: 0; margin: 0;">
   <li><strong><a href="https://shanz007.github.io/projects/academic/workspacelens/">🔹 WorkSpaceLens</a></strong> : Mobile-first PWA for outdoor knowledge work photo collection and analysis (Ongoing pilot study, CrowdComputing Research Group)</li>
@@ -65,7 +65,7 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 
 ## 💼 Experience Highlights
 
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 <ul class="not-prose space-y-1 list-none pl-0">
   <li>🔹<strong>Research Worker</strong> @ CrowdComputing Research Group, University of Oulu - AI/LLM systems for outdoor knowledge work analysis (2026–Ongoing)</li><br>
   <li>🔹<strong>Research Assistant</strong> @ UBICOMP, University of Oulu - AI/LLM applications in HCI; first-authored ACM MindTrek 2025 paper (2024–2025)</li><br>
@@ -81,7 +81,7 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 
 ## 🛠️ Tech Stack
 
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 <ul class="not-prose space-y-1 list-none pl-0">
   <li>🔹<strong>Languages & Frameworks:</strong> Java (JSE/JEE), Spring Boot, Spring MVC, Node.js, Python, React.js, Vue.js, Angular, JavaScript, TypeScript</li><br>
   <li>🔹<strong>AI & LLM:</strong> OpenAI GPT-4, Claude (Anthropic), LangChain, LlamaIndex, LangGraph, ChromaDB, FAISS, Azure OpenAI, Hugging Face, Ollama</li><br>
@@ -95,7 +95,7 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 ---
 
 ## 📚 Latest Research
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 
 Published work on AI-driven HCI, digital wellbeing, and user trust:
 
@@ -108,7 +108,7 @@ Published work on AI-driven HCI, digital wellbeing, and user trust:
 
 ## 🎓 Education
 
-<div class="text-left" style="text-align: justify;">
+<div class="text-left" style="text-align: left;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
   <li>🔹<strong>M.Sc. Computer Science and Engineering</strong> : University of Oulu, Finland (2023–2025)</li>
   <li>🔹<strong>MBA in Management of Technology</strong> : University of Moratuwa, Sri Lanka</li>

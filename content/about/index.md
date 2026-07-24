@@ -23,7 +23,7 @@ layoutBackgroundHeaderSpace: false
 
 # About Me
 
-Hi there! 👋 I'm **Shanaka Niranjan** - a Senior Developer / Technical Lead with 14+ years of global experience building scalable, reliable, and user-focused applications, now working at the intersection of **AI/LLM research**, **Human-Computer Interaction**, and **Empirical Software Engineering** at the University of Oulu, Finland.
+Hi there! 👋 I'm **Niranjan** - a Senior Developer / Technical Lead with 14+ years of global experience building scalable, reliable, and user-focused applications, now working at the intersection of **AI/LLM research**, **Human-Computer Interaction**, and **Empirical Software Engineering** at the University of Oulu, Finland.
 
 👉 [View my full CV →](https://effulgent-khapse-0bd839.netlify.app)
 
