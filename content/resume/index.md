@@ -8,7 +8,7 @@ summary: "My professional background in data engineering and HCI research"
 
 <div class="text-left" style="text-align: justify;">
 {{< alert icon="circle-info" >}}
-[View Full CV →](https://effulgent-khapse-0bd839.netlify.app/)
+[View Full CV →](https://niranjan-liyanage-cv.netlify.app/)
 {{< /alert >}} 
 </div>
 
