@@ -68,7 +68,7 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 <div class="text-left" style="text-align: left;">
 <ul class="not-prose space-y-1 list-none pl-0">
   <li>🔹<strong>Research Worker</strong> @ CrowdComputing Research Group, University of Oulu - AI/LLM systems for outdoor knowledge work analysis (2026–Ongoing)</li><br>
-  <li>🔹<strong>Research Assistant</strong> @ UBICOMP, University of Oulu - AI/LLM applications in HCI; first-authored ACM MindTrek 2025 paper (2024–2025)</li><br>
+  <li>🔹<strong>Research Assistant</strong> @ UBICOMP, University of Oulu - AI/LLM applications in HCI & Emperical Evaluation; first-authored ACM MindTrek 2025 paper (2024–2025)</li><br>
   <li>🔹<strong>Technical Lead</strong> @ ICTA Sri Lanka - Led national-scale digital identity initiative (SLUDI); architecture, team management, RFPs (2021–2023)</li><br>
   <li>🔹<strong>Product Lead, Scrum Master, and Senior Software Engineer</strong> @ Kaleris/ShipXpress (Wabtec) - 6 years in railroad software platforms serving US operators; microservices architecture and re-engineering (2014–2021)</li><br>
   <li>🔹<strong>Senior Software Engineer and Software Engineer</strong> @ EVES Information Technology AG, Interblocks Pvt Ltd, Wavenet International - Custom software development across logistics, fintech, and telecom (2007–2014)</li>

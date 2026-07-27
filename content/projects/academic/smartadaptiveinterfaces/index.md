@@ -24,10 +24,11 @@ showRelatedContent: false
 
 ## Project Overview
 {{< alert icon=circle-info >}}
-**Research Unit:** University of Oulu, UBICOMP  
+**Project:** Smart Adaptive Interfaces – AI-Powered Digital Wellbeing  
+**Research Unit:** Applied Computing Research Project, UBICOMP, University of Oulu  
 **Timeline:** Nov 2024 – May 2025  
-**Type:** Academic Research / Progressive Web Software - A browser-based extension tool 
-**View app:** [SmartAdaptiveUi](https://vm1297.kaj.pouta.csc.fi/)
+**Type:** Academic Research / Progressive Web Software - A browser-based extension tool   
+**ACM paper:** [ACM](https://dl.acm.org/doi/10.1145/3757980.3762111)
 {{< /alert >}}
 
 **Smart Adaptive Interfaces** is a research-driven browser extension that leverages **Large Language Models (LLMs)** to dynamically modify web content for improved digital wellbeing.  
@@ -133,6 +134,17 @@ This work advances research on **Digital Self-Control Tools (DSCTs)** by introdu
 ---
 ## Technologies Used  
 `React` · `JavaScript (ES6 Modules)` · `Chrome Extensions API` · `OpenAI (GPT-3.5)` · `Content Scripts / DOM Manipulation` · `HTML5` · `CSS3`  
+
+---
+
+
+## Research & Evaluation Methods
+
+- Mixed-methods study design (quantitative + qualitative)
+- Statistical data analysis: Python, Pandas, NumPy, SciPy
+- Visualisation: Matplotlib, Seaborn
+- Academic writing: Overleaf (LaTeX), ACM standard template
+- UEQ-L questionnaire analysis
 
 ---
 

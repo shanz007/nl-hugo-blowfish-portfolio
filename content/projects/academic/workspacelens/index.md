@@ -31,7 +31,6 @@ showRelatedContent: false
 **Status:** Pilot study / data collection in progress  
 **Main App:** [WorkSpaceLens](https://tinyurl.com/y89w8637)  
 **Admin Portal:** [WorkSpaceLens-Admin](https://tinyurl.com/mumu3ey2)
-
 {{< /alert >}}
 
 **WorkspaceLens** is a mobile-first Progressive Web Application (PWA) that implements the **pOKW2 photo analysis model** (Herneoja et al., 2023) for collecting and analysing self-reported photographs from outdoor and semi-outdoor knowledge work environments.
@@ -41,7 +40,7 @@ showRelatedContent: false
 Working outdoors is an emerging and sparsely studied phenomenon. Hybrid and remote work have transformed where knowledge workers choose to work be it parks, terraces, courtyards, café patios etc. yet the physical characteristics of these spaces and their effect on productivity remain largely unquantified. WorkspaceLens addresses this gap by providing a structured, privacy-aware, mobile data collection tool aligned to the pOKW2 research methodology.
 <img src="workspacelens-2.png" alt="WorkspaceLens-2" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
-The application collects gaze-direction photographs (what the participant sees, not their desk), paired with an 8-question Experience Sampling Method (ESM) questionnaire, GPS coordinates, and automated computer vision analysis — all linked by participant ID and timestamp for cross-dataset joining.
+The application collects gaze-direction photographs (what the participant sees, not their desk), paired with an 8-question Experience Sampling Method (ESM) questionnaire, GPS coordinates, and automated computer vision analysis, and all linked by participant ID and timestamp for cross-dataset joining.
 <img src="workspacelens-3.png" alt="WorkspaceLens-3" style="width: 55%; max-width: 600px; display: block; margin: 1.5rem auto;" />
 
 ---
@@ -52,7 +51,7 @@ The project is grounded in the following peer-reviewed work:
 
 - **Herneoja et al. (2023).** *Interdisciplinary approach to defining outdoor places of knowledge work: quantified photo analysis.* Frontiers in Psychology. [DOI: 10.3389/fpsyg.2023.1237069](https://doi.org/10.3389/fpsyg.2023.1237069)
 - **TWR Network (2024).** *TWR2024 Proceedings.* Thermally responsive workplace design and semi-outdoor classification framework.
-- **ACM (2024).** *Privacy perceptions in photo annotations.* [DOI: 10.1145/3631439](https://dl.acm.org/doi/10.1145/3631439) — informs the privacy editor design and participant responsibility model.
+- **ACM (2024).** *Privacy perceptions in photo annotations.* [DOI: 10.1145/3631439](https://dl.acm.org/doi/10.1145/3631439) - informs the privacy editor design and participant responsibility model.
 
 The pOKW2 model defines three layers of data collection:
 
@@ -100,8 +99,8 @@ WorkspaceLens implements Columns A and B in full, with Column C reserved for res
 The system follows a three-tier architecture with no custom backend API server required for data collection.
 
 - **Frontend:** React 19 + TypeScript + Vite 8, deployed on Netlify
-- **Storage:** Supabase Storage bucket — `{participantId}/{timestamp}.jpg`
-- **Database:** Supabase PostgreSQL — `participants`, `submissions`, `photo_analysis`
+- **Storage:** Supabase Storage bucket - `{participantId}/{timestamp}.jpg`
+- **Database:** Supabase PostgreSQL - `participants`, `submissions`, `photo_analysis`
 - **Vision pipeline:** Deno Edge Function → OpenRouter → PostgreSQL
 - **Admin auth:** Server-side JWT
 
@@ -148,11 +147,11 @@ Results are stored in PostgreSQL and displayed in the researcher admin dashboard
 
 ## Data Privacy & Consent
 
-- No personal data collected — open access for participants with own unique ID
-- GPS is strictly opt-in — Optional GPS permission
-- Data storage is private — write-only anon access, no public listing
-- All data transmitted over HTTPS — TLS enabled
-- Full transparency — covers research use, privacy responsibility, and voluntary participation
+- No personal data collected - open access for participants with own unique ID
+- GPS is strictly opt-in - Optional GPS permission
+- Data storage is private - write-only anon access, no public listing
+- All data transmitted over HTTPS - TLS enabled
+- Full transparency - covers research use, privacy responsibility, and voluntary participation
 
 ---
 
