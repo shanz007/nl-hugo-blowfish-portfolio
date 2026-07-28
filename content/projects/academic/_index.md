@@ -89,7 +89,7 @@ showHero: false
 ---
 
 {{< alert icon=circle-info >}}
-**Project:** Raft-Based Distributed Job Queue
+**Project:** Raft-Based Distributed Job Queue 
 **Timeline:** Jan 2024 – May 2024  
 **Type:** Academic Course Project, University of Oulu - Distributed Systems (Industry Track)  
 [GitHub](https://github.com/KRVPerera/DistributedJobRaft)

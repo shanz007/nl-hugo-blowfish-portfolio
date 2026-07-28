@@ -26,13 +26,13 @@ layoutBackgroundHeaderSpace: true
 
 <div class="text-left" style="text-align: left;">
 
-I bridge the gap between **cutting-edge technology** and **real-world impact** — from leading national-scale digital identity initiatives to researching AI-driven systems at the intersection of Human-Computer Interaction and Empirical Software Engineering at the University of Oulu.<br><br>
+I bridge the gap between **cutting-edge technology** and **real-world impact** - from leading national-scale digital identity initiatives to researching AI-driven systems at the intersection of Human-Computer Interaction and Empirical Software Engineering at the University of Oulu.<br><br>
 
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 
   <li><strong>🔬 Research:</strong> AI/LLM applications for digital wellbeing, user trust, and knowledge work environments. <a href="/projects/academic/">See research projects →</a></li>
   <li><strong>🏗️ SW Development & Architecture:</strong> Full-stack engineering and cloud-native system design across Java, Node.js, React, Python, and various open-source ecosystems</li>
-  <li><strong>🔍 Empirical SE:</strong> Designing, building, and empirically evaluating AI-driven systems through scientific user studies — quantitative and qualitative methods in real-world contexts. <a href="/projects/academic/">See research projects →</a></li>
+  <li><strong>🔍 Empirical SE:</strong> Designing, building, and empirically evaluating AI-driven systems through scientific user studies - quantitative and qualitative methods in real-world contexts. <a href="/projects/academic/">See research projects →</a></li>
   <li><strong>👥 Leadership:</strong> Technical leadership, mentoring, and engineering excellence</li>
   <li><strong>🌍 Global Experience:</strong> North America, Europe, South Asia, and Southeast Asia</li>
 </ul>
@@ -44,7 +44,7 @@ I bridge the gap between **cutting-edge technology** and **real-world impact** �
 
 <div class="text-left" style="text-align: left;">
 {{< alert icon="circle-info" >}}
-**Currently:** Research Worker at [University of Oulu](https://ubicomp.oulu.fi/staff-members/shanaka-niranjan) — Building [WorkSpaceLens](https://shanz007.github.io/projects/academic/workspacelens/), a mobile-first PWA for analysing outdoor knowledge work environments. Also developing applied AI systems leveraging *LLM integration*, *RAG pipelines*, *Agentic AI*, and *Azure data engineering*.
+**Currently:** Research Worker at [University of Oulu](https://ubicomp.oulu.fi/staff-members/shanaka-niranjan) - Building [WorkSpaceLens](https://shanz007.github.io/projects/academic/workspacelens/), a mobile-first PWA for analysing outdoor knowledge work environments. Also developing applied AI systems leveraging *LLM integration*, *RAG pipelines*, *Agentic AI*, and *Azure data engineering*.
 {{< /alert >}} 
 </div>
 

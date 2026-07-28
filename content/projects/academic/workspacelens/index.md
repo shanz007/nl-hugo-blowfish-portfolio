@@ -29,8 +29,8 @@ showRelatedContent: false
 **Timeline:** May 2026 – Ongoing  
 **Type:** Research Project / Progressive Web App  
 **Status:** Pilot study / data collection in progress  
-**Main App:** [WorkSpaceLens](https://tinyurl.com/y89w8637)  
-**Admin Portal:** [WorkSpaceLens-Admin](https://tinyurl.com/mumu3ey2)
+**Main App:** [WorkSpaceLens](https://workspacelens.netlify.app/)  
+**Admin Portal:** [WorkSpaceLens-Admin]( https://workspacelens.netlify.app/admin)
 {{< /alert >}}
 
 **WorkspaceLens** is a mobile-first Progressive Web Application (PWA) that implements the **pOKW2 photo analysis model** (Herneoja et al., 2023) for collecting and analysing self-reported photographs from outdoor and semi-outdoor knowledge work environments.

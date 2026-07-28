@@ -95,9 +95,9 @@ Delivered solutions across **digital identity, transportation, logistics, fintec
   <li>🔹 <strong>Languages & Frameworks:</strong> Java (JSE/JEE), Spring Boot, Spring MVC, Node.js, Python, React.js, Vue.js, Angular, TypeScript</li>
   <li>🔹 <strong>AI & LLM:</strong> OpenAI GPT-4, Claude (Anthropic), LangChain, LlamaIndex, LangGraph, ChromaDB, FAISS, Azure OpenAI, Hugging Face, Ollama, RAG pipelines, Agentic AI</li>
   <li>🔹 <strong>Cloud & DevOps:</strong> AWS, GCP, Azure, Docker, Kubernetes, Jenkins, SonarQube, GitHub Actions, Terraform, Ansible, CI/CD</li>
-  <li>🔹 <strong>Middleware & Integration:</strong> WSO2 (Identity, API Manager, ESB), Kafka, RabbitMQ, RESTful APIs, GraphQL, gRPC</li>
+  <li>🔹 <strong>Middleware & Integration:</strong> WSO2 (Identity, API Manager, ESB), ELK Stack, Grafana, Prometheus, Kafka, RabbitMQ, RESTful APIs, GraphQL, gRPC</li>
   <li>🔹 <strong>Databases:</strong> PostgreSQL, MySQL, Oracle, MongoDB, Redis, DynamoDB, Supabase</li>
-  <li>🔹 <strong>Practices:</strong> Agile, Scrum, SAFe, TDD, BDD, Microservices, Domain-Driven Design, DevOps</li>
+  <li>🔹 <strong>Practices:</strong> Agile, Scrum, SAFe, TDD, BDD, Microservices, Domain-Driven Design, DevOps, Jira, Confluence, Rally</li>
   <li>🔹 <strong>Research Methods:</strong> Mixed methods, User studies, TAM3, UEQ-L, Quantitative & Qualitative analysis</li>
 </ul>
 </div>
