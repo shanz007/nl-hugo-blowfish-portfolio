@@ -191,3 +191,20 @@ Participants suggested expanding the tool’s scope and adaptability:
 
 ## Conclusion  
 This study shows that **TrustifyAI** effectively encourages profile improvements while building user trust through clarity and usability. Users expressed both appreciation for its potential and healthy skepticism about AI’s broader role. To strengthen adoption, future systems should prioritize **ethical design, transparency, adaptability, and cross-platform reach** key to fostering credibility and trust in digital identities.  
+
+---
+
+## Acknowledgements
+
+This thesis project would not have been possible without the support and guidance of supervisors at the UBICOMP Research Unit, University of Oulu:
+
+<ul class="not-prose list-none pl-0 space-y-2 text-left">
+
+  <li>🔹 <strong><a href="https://ubicomp.oulu.fi/staff-members/simo-hosio/" target="_blank">Professor Simo Hosio</a></strong> — Academy Research Fellow, Professor of Computer Science and Engineering, UBICOMP Research Unit, University of Oulu - for his invaluable supervision, strategic guidance, and continued encouragement throughout the research and thesis process.</li>
+
+  <li>🔹 <strong><a href="https://ubicomp.oulu.fi/staff-members/aku-visuri/" target="_blank">Dr. Aku Visuri</a></strong> - Postdoctoral Researcher, UBICOMP Research Unit, University of Oulu  for his hands-on supervision, detailed feedback, and mentorship throughout the design, development, and evaluation phases of this project.</li>
+
+</ul>
+
+
+---

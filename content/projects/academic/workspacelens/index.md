@@ -233,3 +233,15 @@ WorkspaceLens demonstrates that a lightweight PWA can implement a rigorous resea
 The pilot study will validate the data collection pipeline with real participants in real outdoor locations, producing a structured dataset of gaze-direction photographs, ESM survey responses, GPS coordinates, and computer vision scores, that is ready for interdisciplinary analysis combining architectural, environmental psychology, and knowledge work research perspectives.
 
 <!-- TODO: Update conclusion with study outcomes and findings once available -->
+
+---
+
+## Acknowledgements
+
+This research project would not have been possible without the support and guidance of my supervisor at the CrowdComputing Research Group, University of Oulu:
+
+<ul class="not-prose list-none pl-0 space-y-2 text-left">
+
+  <li>🔹 <strong><a href="https://ubicomp.oulu.fi/staff-members/simo-hosio/" target="_blank">Professor Simo Hosio</a></strong> - Academy Research Fellow, Professor of Computer Science and Engineering, CrowdComputing Research Group, University of Oulu - for his invaluable supervision, strategic guidance, and continued encouragement throughout the research design, development, and pilot study phases of this project.</li>
+
+</ul>
